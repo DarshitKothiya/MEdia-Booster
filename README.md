@@ -1,16 +1,3 @@
-# multimedia
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Audio Player
+![photo_2022-10-13_18-20-31](https://user-images.githubusercontent.com/113766592/195601129-6af5c844-6c01-4ac6-928b-d1e7119640fa.jpg)
+![photo_2022-10-13_18-20-27](https://user-images.githubusercontent.com/113766592/195601141-4ea6a67a-ae82-414e-b19c-840cc2c357aa.jpg)
