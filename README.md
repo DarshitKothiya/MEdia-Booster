@@ -1,16 +1,3 @@
 # gallary
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2022-10-13_18-16-03](https://user-images.githubusercontent.com/113766592/195600221-62da81c3-efe4-4b29-a72f-bc7a24c95a66.jpg)
+![photo_2022-10-13_18-16-00](https://user-images.githubusercontent.com/113766592/195600263-9e9482e7-f893-4ccd-ab85-8d25c6131dd1.jpg)
